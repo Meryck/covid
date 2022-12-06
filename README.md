@@ -1,2 +1,2 @@
 # covid
-Project Covid
+Project covid

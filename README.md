@@ -1,4 +1,4 @@
-#SarsCov-2 - HsDHODH
+SarsCov-2 - HsDHODH
 
 paper: Antiviral effect of quinone-based inhibitors of human dihydroorotate dehydrogenase as an strategy to fight against SARS-CoV-2 virus
 
